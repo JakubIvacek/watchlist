@@ -2,7 +2,7 @@
   <nav class="app-nav">
     <RouterLink to="/" class="nav-logo">
       <img src="/img/kangaroo-128-w.png" alt="logo" />
-      WatchList<span style="color:var(--accent)">.</span>
+      <span>WatchList<span style="color:var(--accent)">.</span></span>
     </RouterLink>
 
     <div class="nav-links">
